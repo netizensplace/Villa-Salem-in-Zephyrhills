@@ -635,30 +635,30 @@ span.highlight {
   margin-bottom: 0;
 }
 
-.services .link .icon-box:hover {
+.services .icon-box:hover {
   background: #404040d6;
   border-color: var(--grey);
 }
 
-.services .link .icon-box:hover .icon {
+.services .icon-box:hover .icon {
   background: #fff;
 }
 
-.services .link .icon-box:hover .icon i {
+.services .icon-box:hover .icon i {
   color: var(--highlight);
 }
 
-.services .link .icon-box:hover .icon::before {
+.services .icon-box:hover .icon::before {
   background: var(--light-brown);
 }
 
-.services .link .icon-box:hover h4 a,
-.services .link .icon-box:hover h4,
-.services .link .icon-box:hover p {
+.services .icon-box:hover h4 a,
+.services .icon-box:hover h4,
+.services .icon-box:hover p {
   color: #fff;
 }
 
-.services .link .icon-box:hover a {
+.services .icon-box:hover a {
   font-weight: bold;
   color: #fff;
   text-decoration: underline;
