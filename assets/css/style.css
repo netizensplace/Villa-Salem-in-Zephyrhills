@@ -635,30 +635,30 @@ span.highlight {
   margin-bottom: 0;
 }
 
-.services .link:hover {
+.services .linked-box:hover {
   background: #404040d6;
   border-color: var(--grey);
 }
 
-.services .link:hover .icon {
+.services .linked-box:hover .icon {
   background: #fff;
 }
 
-.services .link:hover .icon i {
+.services .linked-box:hover .icon i {
   color: var(--highlight);
 }
 
-.services .link:hover .icon::before {
+.services .linked-box:hover .icon::before {
   background: var(--light-brown);
 }
 
-.services .link:hover h4 a,
-.services .link:hover h4,
-.services .link:hover p {
+.services .linked-box:hover h4 a,
+.services .linked-box:hover h4,
+.services .linked-box:hover p {
   color: #fff;
 }
 
-.services .link:hover a {
+.services .linked-box:hover a {
   font-weight: bold;
   color: #fff;
   text-decoration: underline;
