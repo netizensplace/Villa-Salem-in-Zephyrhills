@@ -1,5 +1,9 @@
 (function () {
   'use strict';
+  
+  setTimeout(function () {
+    document.body.classList.add('loaded');
+  }, 3000);
 
   /**
    * Easy selector helper function
